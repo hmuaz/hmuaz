@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hmuaz
-- 👀 I’m interested in Unity, C#, Linux, Web Pentesting and Bug Bounty
+- 👀 I’m interested in Unity, C#
 - 🌱 I’m currently learning Unity
